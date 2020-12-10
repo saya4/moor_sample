@@ -3,6 +3,7 @@
 Flutterのmoorを使用して既存アプリでdbを使用するためサンプルで作成したタスク管理アプリです。
 
 moorのコード自動生成を使用しているためterminalで下記のコードを実行する必要あり
+<br>
 ```flutter packages pub run build_runner watch```
 
 ## References（参考にしたもの)
